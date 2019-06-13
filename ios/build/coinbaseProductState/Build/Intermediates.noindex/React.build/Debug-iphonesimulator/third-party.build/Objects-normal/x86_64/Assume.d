@@ -1,9 +1,9 @@
 dependencies: \
-  /Users/truls/Documents/code/test/coinbase-24-hour-product-state/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.cpp \
-  /Users/truls/Documents/code/test/coinbase-24-hour-product-state/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
-  /Users/truls/Documents/code/test/coinbase-24-hour-product-state/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
-  /Users/truls/Documents/code/test/coinbase-24-hour-product-state/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
-  /Users/truls/Documents/code/test/coinbase-24-hour-product-state/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
-  /Users/truls/Documents/code/test/coinbase-24-hour-product-state/node_modules/react-native/third-party/glog-0.3.5/exported/glog/logging.h \
-  /Users/truls/Documents/code/test/coinbase-24-hour-product-state/node_modules/react-native/third-party/glog-0.3.5/exported/glog/log_severity.h \
-  /Users/truls/Documents/code/test/coinbase-24-hour-product-state/node_modules/react-native/third-party/glog-0.3.5/exported/glog/vlog_is_on.h
+  /Users/truls/Documents/code/coinbaseProductState/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.cpp \
+  /Users/truls/Documents/code/coinbaseProductState/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/truls/Documents/code/coinbaseProductState/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/truls/Documents/code/coinbaseProductState/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/truls/Documents/code/coinbaseProductState/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/truls/Documents/code/coinbaseProductState/node_modules/react-native/third-party/glog-0.3.5/exported/glog/logging.h \
+  /Users/truls/Documents/code/coinbaseProductState/node_modules/react-native/third-party/glog-0.3.5/exported/glog/log_severity.h \
+  /Users/truls/Documents/code/coinbaseProductState/node_modules/react-native/third-party/glog-0.3.5/exported/glog/vlog_is_on.h

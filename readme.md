@@ -15,4 +15,4 @@ This repo was done as part of a code challenge. For testing, `react-native-testi
 ## Disclaimer
 
 - Design-wise, it does the job, but it does not look nice.
-- Commits, I only had three commits, I should have split it up in chunck-commits as things where finished. But but :)
+- Commits, I only have commit for all the code, which is not good. I should have split it up in chunck-commits as things where finished. But but :)
