@@ -38,38 +38,6 @@
 			<key>uniqueIdentifier</key>
 			<string>5ECA7EC9-3CFD-4668-A5D7-ADA6177A7BA0</string>
 		</dict>
-		<key>6B0C4CA6-1448-4E10-9E2D-4A93A67ED2A8</key>
-		<dict>
-			<key>className</key>
-			<string>IDECommandLineBuildLog</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>6B0C4CA6-1448-4E10-9E2D-4A93A67ED2A8.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>coinbaseProductState project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>coinbaseProductState</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Building project coinbaseProductState with scheme coinbaseProductState and configuration Debug</string>
-			<key>timeStartedRecording</key>
-			<real>582098616.28369403</real>
-			<key>timeStoppedRecording</key>
-			<real>582098910.30138099</real>
-			<key>title</key>
-			<string>Building project coinbaseProductState with scheme coinbaseProductState and configuration Debug</string>
-			<key>uniqueIdentifier</key>
-			<string>6B0C4CA6-1448-4E10-9E2D-4A93A67ED2A8</string>
-		</dict>
 	</dict>
 </dict>
 </plist>

@@ -6,6 +6,7 @@ This repo was done as part of a code challenge. For testing, `react-native-testi
 
 - `yarn`
 - Run `react-native run-ios` - It's optimized for ios.
+- Or open xcode, navigate into ios folder and open `coinbaseProductState.xcodeproj`
 
 ## Tests
 
@@ -14,4 +15,4 @@ This repo was done as part of a code challenge. For testing, `react-native-testi
 ## Disclaimer
 
 - Design-wise, it does the job, but it does not look nice.
-- Commits, I only have two commits, I should have split it up in chunck-commits as things where finished. But but :)
+- Commits, I only had three commits, I should have split it up in chunck-commits as things where finished. But but :)
